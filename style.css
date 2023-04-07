@@ -70,3 +70,27 @@ a {
   margin-top: -10%;
   background-color: #f7f7f9;
 }
+
+.content-3 {
+  height: 550px;
+  margin-left: 12%;
+}
+
+.code {
+  background-color: #f7f7f9;
+  margin-right: 91%;
+  height: 105px;
+}
+
+.content-4 {
+  text-align: center;
+  background-image: url(./Properties/contactformbackgroundshapes.svg);
+  background-color: #6070ff;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
+
+.forms {
+  margin-left: 36.5%;
+}
