@@ -93,3 +93,4 @@ I would like to thank Microverse.
 This project is [MIT](./LICENSE) licensed.
 
 ### [ Developer : Blesslin Jerish R ]
+### [ Developer : Shihab Uddin Khan ]
