@@ -33,3 +33,40 @@ h1 {
 a {
   text-decoration: none;
 }
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  margin-top: 10%;
+}
+.all_card {
+  margin-left: 25%;
+  margin-top: 10%;
+}
+.c1 {
+  height: 400px !important;
+}
+.card-body {
+  width: 300px !important;
+  float: right;
+}
+.card-left {
+  margin-left: -100px !important;
+}
+.badge {
+  background-color: #ebeafe;
+}
+.card-right {
+  margin-right: 100px !important;
+}
+.f-left {
+  float: left;
+}
+.c2 {
+  margin-left: -200px !important;
+}
+.content-2 {
+  margin-top: -10%;
+  background-color: #f7f7f9;
+}
