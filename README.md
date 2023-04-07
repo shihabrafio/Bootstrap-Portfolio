@@ -61,6 +61,12 @@ After you're finished please remove all the comments and instructions!
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
+### Author 1
+
+- GitHub: [@shihabrafio](https://github.com/shihabrafio)
+- Twitter: [@shihab_uddin19](https://twitter.com/shihab_uddin19)
+- LinkedIn: [Shihab Uddin Khan](https://www.linkedin.com/in/shihab-uddin-khan-45620a16a/)
+
 
 ### Author 2
 
