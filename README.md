@@ -62,6 +62,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 👥 Author <a name="authors"></a>
 
+### Author 2
+
 - GitHub : [@BlesslinJerishR](https://github.com/BlesslinJerishR)
 - Twitter : [@BlesslinJerishR](https://twitter.com/BlesslinJerishR)
 - LinkedIn : [@BlesslinJerishR](https://www.linkedin.com/in/blesslin-jerish-8b8bbb257/)
